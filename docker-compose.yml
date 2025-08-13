@@ -13,4 +13,4 @@ services:
       
 networks:
       n8n-network-yt:
-        driver: brigde     
+        driver: bridge     
