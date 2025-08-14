@@ -1,0 +1,2 @@
+{"__type":"$$EventMessageAudit","id":"c665984c-1ed3-42b9-b480-7207180e0606","ts":"2025-08-14T02:25:24.481+00:00","eventName":"n8n.audit.user.login.success","message":"n8n.audit.user.login.success","payload":{"userId":"d7b5b1d6-dbb0-41af-a4e5-d4111dc188df","_email":"glfortaleza2@gmail.com","_firstName":"GLEIDSON","_lastName":"NASCIMENTO","globalRole":"global:owner","authenticationMethod":"email"}}
+{"__type":"$$EventMessageConfirm","confirm":"c665984c-1ed3-42b9-b480-7207180e0606","ts":"2025-08-14T02:25:24.545+00:00","source":{"id":"0","name":"eventBus"}}
